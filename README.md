@@ -28,6 +28,6 @@ git clone https://github.com/codeasycc/slideasy.git slideasy-sample
 只编写markdown就能生成漂亮的slide，[`vscode-reveal`](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal
 ) 已经做的很好了。
 
-但markdown缺少必要的布局能力，slideasy可以在markdown内使用html和bootstrap的实现Grid布局。
+但markdown缺少必要的布局能力，slideasy可以在markdown内使用html和bootstrap以实现Grid布局。
 
 > 可以查看演示： https://codeasycc.github.io/slideasy/

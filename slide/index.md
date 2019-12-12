@@ -58,6 +58,6 @@ title: "SLIDEASY - 让做幻灯片变得简单"
 
 - [Vscode Reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal)
 - [reveal.js](https://github.com/hakimel/reveal.js/)
-- [slideasy](https://github.com/hakimel/reveal.js/)
+- [slideasy](https://github.com/codeasycc/slideasy)
 
 ![codeasy](./images/codeasy.jpg)
